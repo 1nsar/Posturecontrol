@@ -4,9 +4,5 @@ Posture control device created with Arduino Nano and Arduino Uno and some manual
 # License 
 All of the codebase are MIT licensed unless otherwise specified.
 
-“It is not the strongest of the students that find the room, nor the most well mannered, but the one most programmer.”
-
-– not Charles Darwin
-
 
 
